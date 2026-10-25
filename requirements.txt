@@ -1,0 +1,6 @@
+flask
+pyairtable
+psycopg2-binary
+pandas
+requests
+python-dotenv

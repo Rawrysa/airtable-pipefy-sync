@@ -1,0 +1,7 @@
+.env
+.venv/
+pipenv/
+__pycache__/
+logs/
+temp/
+notebooks/
